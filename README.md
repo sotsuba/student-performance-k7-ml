@@ -11,7 +11,7 @@
 
 # Introduction
 
-This is the capstone project of K7-Machine Learning - Full Stack Data Science, mentored by Quan Huynh.
+This is the capstone project of K7-Machine Learning - Full Stack Data Science, mentored by Quan Huynh and Quan Dang.
 
 # __Repository’s structure__
 ```
